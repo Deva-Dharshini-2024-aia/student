@@ -1,1 +1,2 @@
 # student
+Student Portal App is a web application that helps students organize their academic tasks and track progress effectively. It combines a student dashboard with a Kanban board to manage assignments, projects, and deadlines visually. Through which students can complete their work on time and have a clear vision on pending works as the KANBAN board consists of to do list, in progress, and done columns. students can add, edit the tasks and can move the completed tasks to done column. It helps the student to manage and organize their work effectively.  
